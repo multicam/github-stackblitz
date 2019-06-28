@@ -6,11 +6,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header"><p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-
-<p>coucou</p>
+        <header className="App-header">
+          <p>coucou</p>
         </header>
       </div>
     );
